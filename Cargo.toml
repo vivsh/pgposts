@@ -3,6 +3,6 @@ name = "pgposts"
 version = "0.1.0"
 edition = "2024"
 description = "Reserved crate name for future PostgreSQL-based job scheduler."
-license = "MIT or Apache-2.0"
+license = "MIT OR Apache-2.0"
 
 [dependencies]
